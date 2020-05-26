@@ -1,0 +1,15 @@
+html,
+body{
+  height: 100%;
+  margin: 0;
+  font-family: 'Source Code Pro', monospace;
+}
+.App {
+  text-align: center;
+}
+
+.secend{
+  background-image: linear-gradient(to right, #27ffb4 , #29926d);
+  color: #02183f;
+}
+

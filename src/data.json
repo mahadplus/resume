@@ -1,0 +1,67 @@
+{
+    "title": "Hello, I'm MahadPlus",
+    "Avatar": "./pic/Avatar.png",
+    "subtitle": "Full Stack div | React | Open-Source Enthusiastic | Gamer",
+    "links": {
+        "github": "https://github.com/mahadplus",
+        "Stackoverflow": "https://stackoverflow.com/story/mahadplus",
+        "instagram": "https://www.instagram.com/mahadplus/",
+        "linkedin": "https://www.linkedin.com/in/muhammad-jafar-khadem-81991981/"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                "type": "p",
+                "content": "i am mohammad jafar khadem. live in dezful , khozestan , iran . nick name is mahad plus."
+                }
+            ]
+        },
+        {
+            "title": "skils",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "pic/react.png",
+                        "tilte": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "pic/js.png",
+                        "tilte": "Java Script"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "pic/html.png",
+                        "tilte": "Html"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "pic/css.png",
+                        "tilte": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "pic/git.png",
+                        "tilte": "git"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons":{
+        "down" : "pic/down.png",
+        "up" : "pic/up.png",
+        "theme" : "pic/theme.png"
+    }
+}

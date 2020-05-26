@@ -1,0 +1,26 @@
+.icons-wapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    padding: 5px;
+}
+.avatar{
+    height: 150px;
+    width: 150px;
+}
+  
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+.first{
+    background-image: linear-gradient(to right, #02183f , #042258);
+    background-color: #02183f;
+    color: #27ffb4;
+}
+h1{
+    color: white;
+}
