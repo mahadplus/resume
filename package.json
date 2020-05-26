@@ -1,6 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
+  "homepages": "https://mahadplus.github.io/resume",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -16,6 +17,8 @@
     "social-media-icons-react": "^1.0.10"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
