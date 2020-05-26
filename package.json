@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepages": "https://mahadplus.github.io/resume",
+  "homepage": "https://mahadplus.github.io/resume",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
